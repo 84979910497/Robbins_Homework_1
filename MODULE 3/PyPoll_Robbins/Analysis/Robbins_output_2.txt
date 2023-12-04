@@ -1,0 +1,1 @@
+Election Data___________________________Total_votes: 369711Candidate_dictionary: {'Charles Casper Stockham': 85213, 'Diana DeGette': 272892, 'Raymon Anthony Doane': 11606}Election_Winner: ('Diana DeGette', 272892)Diana DeGette: (27289200, 272892, 3.139, 11606)Raymon Anthony Doane: (27289200, 272892, 3.139, 11606)Charles Casper Stockham: (27289200, 272892, 3.139, 11606)
